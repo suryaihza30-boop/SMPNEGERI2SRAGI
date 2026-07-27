@@ -1,0 +1,92 @@
+
+
+BK Digital
+Sistem Bimbingan & Konseling Sekolah
+Tempel URL Web App Google Apps Script Masuk ke Dashboard
+URL ini hanya disimpan di browser kamu (localStorage), tidak dikirim ke mana-mana. Lihat README untuk cara membuatnya.
+
+BK Digital
+Dashboard Data Siswa Absensi Pelanggaran Konseling Kolaborasi Laporan
+Pengaturan
+
+Dashboard
+
+
+0
+Total Siswa
+
+0
+Alpa Bulan Ini
+
+0
+Pelanggaran Bulan Ini
+
+0
+Sesi Konseling Bulan Ini
+
+
+
+Tren Pelanggaran & Absensi (6 Bulan)
+
+
+Jenis Pelanggaran Terbanyak
+
+
+
+Status Kehadiran
+
+
+Aktivitas Terbaru
+
+Semua Kelas
+Tambah Siswa
+
+
+NIS	Nama	Kelas	L/P	Orang Tua	No. HP Ortu	Status	
+
+Belum ada data siswa. Klik "Tambah Siswa" untuk mulai.
+
+Semua Kelas Semua Status HadirSakit IzinAlpa
+Catat Absensi
+
+
+Tanggal	Nama	Kelas	Status	Keterangan	
+
+Belum ada data absensi.
+
+Semua Kelas
+Catat Pelanggaran
+
+
+Tanggal	Nama	Kelas	Jenis	Poin	Penanganan	
+
+Belum ada data pelanggaran.
+
+Semua Kelas
+Catat Sesi Konseling
+
+Belum ada catatan konseling.
+
+Semua Jenis Pemanggilan Orang Tua Home Visit
+Catat Kolaborasi
+
+Belum ada catatan kolaborasi.
+
+
+Cetak Laporan
+Pilih jenis laporan dan rentang data, lalu cetak sebagai PDF (gunakan dialog cetak browser, pilih "Save as PDF").
+
+Jenis Laporan Data Siswa Rekap Absensi Rekap Pelanggaran Rekap Konseling Rekap Kolaborasi Laporan Per Siswa (Individu)
+Kelas (opsional) Semua Kelas
+Pilih Siswa Pilih siswa...
+Periode Semua Tanggal Harian Bulanan
+Pilih Tanggal
+Pilih Bulan
+Buat & Cetak Laporan
+Dashboard Siswa Absensi Pelanggaran Lainnya
+
+Konseling Kolaborasi Laporan Pengaturan
+
+
+
+Form
